@@ -1,0 +1,10 @@
+[
+  {
+    "nombre": "Netflix",
+    "paquete": "com.netflix",
+    "logo": "https://ejemplo.com/netflix.png",
+    "apk": "https://ejemplo.com/netflix.apk",
+    "fecha_publicacion": "2026-06-10T15:00:00Z",
+    "descripcion": "Netflix"
+  }
+]
