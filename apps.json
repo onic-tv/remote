@@ -1,10 +1,18 @@
 [
   {
     "nombre": "Netflix",
-    "paquete": "com.netflix",
-    "logo": "https://ejemplo.com/netflix.png",
-    "apk": "https://ejemplo.com/netflix.apk",
+    "paquete": "com.netflix.mediaclient",
+    "logo": "https://raw.githubusercontent.com/onic-tv/remote/main/logos/netflix.png",
+    "apk": "https://miservidor.com/apks/netflix.apk",
     "fecha_publicacion": "2026-06-10T15:00:00Z",
-    "descripcion": "Netflix"
+    "descripcion": "Aplicación oficial de Netflix"
+  },
+  {
+    "nombre": "Disney+",
+    "paquete": "com.disney.disneyplus",
+    "logo": "https://raw.githubusercontent.com/onic-tv/remote/main/logos/disney.png",
+    "apk": "https://miservidor.com/apks/disney.apk",
+    "fecha_publicacion": "2026-06-10T12:00:00Z",
+    "descripcion": "Aplicación oficial de Disney+"
   }
 ]
