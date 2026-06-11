@@ -1,11 +1,11 @@
 [
   {
-    "nombre": "Netflix",
+    "nombre": "Youtube",
     "paquete": "com.netflix.mediaclient",
-    "logo": "https://raw.githubusercontent.com/onic-tv/remote/main/logos/netflix.png",
+    "logo": "https://github.com/onic-tv/remote/blob/main/logos/YouTube.png?raw=true",
     "apk": "https://miservidor.com/apks/netflix.apk",
-    "fecha_publicacion": "2026-06-10T15:00:00Z",
-    "descripcion": "Aplicación oficial de Netflix"
+    "fecha_publicacion": "2026-06-10T20:50:00Z",
+    "descripcion": "App premium sin anuncios, IA integrada y mas correcciones"
   },
   {
     "nombre": "Disney+",
