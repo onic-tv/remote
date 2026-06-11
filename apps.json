@@ -1,6 +1,6 @@
 [
   {
-    "nombre": "Netflix",
+    "nombre": "Amazon",
     "paquete": "com.netflix.mediaclient",
     "logo": "https://raw.githubusercontent.com/onic-tv/remote/main/logos/netflix.png",
     "apk": "https://miservidor.com/apks/netflix.apk",
