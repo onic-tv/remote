@@ -1,12 +1,12 @@
 [
-  {
-"nombre": "YouTube",
-"paquete": "io.gh.reisxd.tizentube.cobalt",
-"logo": "https://raw.githubusercontent.com/onic-tv/remote/refs/heads/main/logos/YouTube.png",
-"banner": "https://raw.githubusercontent.com/onic-tv/remote/refs/heads/main/logos/YouTube.png",
-"apk": "https://www.dropbox.com/scl/fi/jcru5wukneutvtcfqx1da/YouTube-Tv-2.0.2.apk?rlkey=kbib75km4xlxnaq4lo75l5ifw&st=1e2xd79z&dl=1",
+ {
+"nombre": "Netflix",
+"paquete": "com.netflix.mediaclient",
+"logo": "https://servidor.com/netflix_logo.png",
+"banner": "https://servidor.com/netflix_banner.jpg",
+"apk": "https://servidor.com/netflix.apk",
 "fecha_publicacion": "2026-06-10T15:00:00Z"
-  },
+},
   {
 "nombre": "Netflix",
 "paquete": "com.netflix.mediaclient",
