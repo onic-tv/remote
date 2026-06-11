@@ -1,7 +1,7 @@
 [
   {
-"nombre": "Netflix",
-"paquete": "com.netflix.mediaclient",
+"nombre": "YouTube",
+"paquete": "io.gh.reisxd.tizentube.cobalt",
 "logo": "https://servidor.com/netflix_logo.png",
 "banner": "https://servidor.com/netflix_banner.jpg",
 "apk": "https://servidor.com/netflix.apk",
