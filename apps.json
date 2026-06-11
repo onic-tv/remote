@@ -1,18 +1,34 @@
 [
- {
-"nombre": "Netflix",
-"paquete": "com.netflix.mediaclient",
-"logo": "https://servidor.com/netflix_logo.png",
-"banner": "https://servidor.com/netflix_banner.jpg",
-"apk": "https://servidor.com/netflix.apk",
-"fecha_publicacion": "2026-06-10T15:00:00Z"
-},
   {
-"nombre": "Netflix",
-"paquete": "com.netflix.mediaclient",
-"logo": "https://servidor.com/netflix_logo.png",
-"banner": "https://servidor.com/netflix_banner.jpg",
-"apk": "https://servidor.com/netflix.apk",
-"fecha_publicacion": "2026-06-10T15:00:00Z"
+    "nombre": "Netflix",
+    "paquete": "com.netflix.mediaclient",
+    "logo": "https://servidor.com/netflix_logo.png",
+    "banner": "https://servidor.com/netflix_banner.jpg",
+    "apk": "https://servidor.com/netflix.apk",
+    "fecha_publicacion": "2026-06-10T15:00:00Z"
+  },
+  {
+    "nombre": "Spotify",
+    "paquete": "com.spotify.music",
+    "logo": "https://servidor.com/spotify_logo.png",
+    "banner": "https://servidor.com/spotify_banner.jpg",
+    "apk": "https://servidor.com/spotify.apk",
+    "fecha_publicacion": "2026-06-09T12:30:00Z"
+  },
+  {
+    "nombre": "TikTok",
+    "paquete": "com.zhiliaoapp.musically",
+    "logo": "https://servidor.com/tiktok_logo.png",
+    "banner": "https://servidor.com/tiktok_banner.jpg",
+    "apk": "https://servidor.com/tiktok.apk",
+    "fecha_publicacion": "2026-06-08T10:15:00Z"
+  },
+  {
+    "nombre": "Telegram",
+    "paquete": "org.telegram.messenger",
+    "logo": "https://servidor.com/telegram_logo.png",
+    "banner": "https://servidor.com/telegram_banner.jpg",
+    "apk": "https://servidor.com/telegram.apk",
+    "fecha_publicacion": "2026-06-07T08:00:00Z"
   }
 ]
